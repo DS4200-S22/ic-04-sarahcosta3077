@@ -1,7 +1,7 @@
 # ic-04
 ic-04 - Intro to HTML and CSS
 
-Link to GitHub Pages: `[insert your clickable hyperlink here]`
+Link to GitHub Pages: [insert your clickable hyperlink here](https://ds4200-s22.github.io/ic-04-sarahcosta3077/)
 
 ## Purpose
 
@@ -11,11 +11,11 @@ The purpose of this assignment is to start learning about HTML and CSS.
 
 1. Background material to support this assignment is provided below in the Resources section.  
 
-1. Create a GitHub Page for your repo and add the link to your GitHub Page above where you see `[insert your clickable hyperlink here]`. 
+2. Create a GitHub Page for your repo and add the link to your GitHub Page above where you see [insert your clickable hyperlink here](https://ds4200-s22.github.io/ic-04-sarahcosta3077/). 
 
-1. Clone this repo and work locally. Be sure to push the final version of your code (and any significant updates along the way) before submitting. 
+3. Clone this repo and work locally. Be sure to push the final version of your code (and any significant updates along the way) before submitting. 
 
-1. Open the index.html file included in your repo. Please do the following: 
+4. Open the index.html file included in your repo. Please do the following: 
    - Title your webpage "ic-04". 
    - Add a heading that says "Intro to HTML and CSS".
    - Add a smaller heading with your name.
